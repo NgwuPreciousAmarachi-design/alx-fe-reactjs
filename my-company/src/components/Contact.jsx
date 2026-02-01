@@ -12,6 +12,7 @@ function Contact() {
   };
 
   const handleSubmit = (e) => {
+    
     e.preventDefault();
     alert('Form submitted!');
   };
